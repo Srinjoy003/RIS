@@ -1,0 +1,3 @@
+coincurve
+matplotlib
+pytest
